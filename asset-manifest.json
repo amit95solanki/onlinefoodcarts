@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/onlinefoodcarts/static/css/main.236a331b.css",
+    "main.js": "/onlinefoodcarts/static/js/main.2ebac698.js",
+    "index.html": "/onlinefoodcarts/index.html",
+    "main.236a331b.css.map": "/onlinefoodcarts/static/css/main.236a331b.css.map",
+    "main.2ebac698.js.map": "/onlinefoodcarts/static/js/main.2ebac698.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.236a331b.css",
+    "static/js/main.2ebac698.js"
+  ]
+}
